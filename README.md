@@ -183,6 +183,9 @@ Therefore, binary classification was selected as the final modeling strategy.
 
 ---
 
+> **Note:**  
+> The interactive Power BI dashboard (.pbix) file is available in the `Powerbi/` folder. Since GitHub cannot preview Power BI files, please download the file and open it with Power BI Desktop.
+
 # Additional Visualizations
 
 The **images/** folder also contains:
