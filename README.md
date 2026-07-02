@@ -6,9 +6,8 @@
 
 # Steam Game Rating Prediction: A Comparative Study of Binary and Multiclass Classification
 
-# Steam Game Rating Prediction: A Comparative Study of Binary and Multiclass Classification
 
-![Steam project dashboard with summary KPI cards for total games 117.311 total reviews 1.048.148 highly rated rate 53,23 percent and highly rated games 62.447 along with charts for games released by year price range and top genres](images/overview_dashboard.png)
+![Steam project dashboard with summary KPI cards for total games 117.311 total reviews 1.048.148 highly rated rate 53,23 percent and highly rated games 62.447 along with charts for games released by year price range and top genres](Images/Overview_dashboard.png)
 
 ## Project Overview
 
@@ -168,19 +167,19 @@ Therefore, binary classification was selected as the final modeling strategy.
 
 ## Project Dashboard
 
-![Steam analytics dashboard showing data charts and summary metrics for game rating prediction with a KPI panel on total games reviews and highly rated rate alongside bar charts for release year price range and top genres](images/overview_dashboard.png)
+![Steam analytics dashboard showing data charts and summary metrics for game rating prediction with a KPI panel on total games reviews and highly rated rate alongside bar charts for release year price range and top genres](Images/Overview_dashboard.png)
 
 ---
 
 ## Binary Classification Dashboard
 
-![Binary classification dashboard showing model evaluation metrics score comparisons and feature impact visuals for Steam game ratings in a professional report layout](images/binary_classification_dashboard.png)
+![Binary classification dashboard showing model evaluation metrics score comparisons and feature impact visuals for Steam game ratings in a professional report layout](Images/binary_classification_dashboard.png)
 
 ---
 
 ## Binary vs Multiclass Comparison
 
-![Comparison dashboard presenting side by side binary and multiclass model performance charts confusion matrix summaries and visual comparison of prediction outcomes](images/binary_vs_multiclass_comparison_dashboard.png)
+![Comparison dashboard presenting side by side binary and multiclass model performance charts confusion matrix summaries and visual comparison of prediction outcomes](Images/binary_vs_multiclass_comparison_dashboard.png)
 
 ---
 
